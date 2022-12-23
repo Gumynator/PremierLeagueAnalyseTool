@@ -14,18 +14,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Installing
 
+    Open Visual Studio Code
+	Install the package "Scala(Metals)"
+ 
     Clone the repository:
 
 	git clone https://github.com/Gumynator/PremierLeagueAnalyseTool
-
-    Go to the project directory:
-
-	cd premier-league
-
-    Compile and run the project:
-
-	javac main.java
-	java main
+	Open it with VS Code
+	Import the sbt packages
 
 -------------------------
 Using the Premier League
